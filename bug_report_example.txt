@@ -23,9 +23,3 @@ Shot version.
 	4. Expected result:
 	5. Actual result:
 	6. Severity:
-
-	
-
-
-
-
