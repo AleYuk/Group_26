@@ -1,4 +1,4 @@
-Checklist^ 
+Checklist:
 	1. ID:
 	2. Title:
 	3. Expected result:
